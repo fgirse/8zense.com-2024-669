@@ -134,6 +134,23 @@
       "Title_Rechtliches": "Rechtliches"
     },
 
+
+    "PageLayout": {
+      "links": {
+        "docs": {
+          "description": "Erfahre mehr über next-intl in der offiziellen Dokumentation.",
+          "href": "https://next-intl.dev",
+          "title": "Dokumentation"
+        },
+        "source": {
+          "description": "Sieh dir den Quellcode dieses Beispiels auf GitHub an.",
+          "href": "https://github.com/amannn/next-intl/tree/main/examples/example-app-router",
+          "title": "Quellcode"
+        }
+      }
+    },
+    
+
     "SignIn": {
       "welcome": "Willkommen bei 8zense.com",
       "signin": "Bitte melden Sie sich an um fortzufahren"  
